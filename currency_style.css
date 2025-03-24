@@ -57,7 +57,7 @@ form input{
     display: flex;
     justify-content: center;
     align-items: center;
-    width:8rem;
+    width:10rem;
     border-radius:0.5rem;
     padding:0.3rem;
     border:1px solid lightgrey;    
